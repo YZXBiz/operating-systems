@@ -1724,4 +1724,4 @@ Multiprocessor scheduling connects to:
 
 ---
 
-**Previous:** [Chapter 6: Limited Direct Execution](chapter6-limited-direct-execution.md) | **Next:** [Chapter 8: Scheduling: The Multi-Level Feedback Queue](chapter8-mlfq.md)
+**Previous:** [Chapter 6: Proportional Share](chapter6-proportional-share.md) | **Next:** [Chapter 8: Address Spaces](chapter8-address-spaces.md)

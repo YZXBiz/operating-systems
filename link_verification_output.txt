@@ -1,0 +1,193 @@
+================================================================================
+📋 LINK VERIFICATION REPORT
+================================================================================
+
+🔍 Checking navigation links...
+  Verifying navigation chain bidirectionality...
+🔍 Checking TOC anchor links...
+🔍 Checking cross-reference links...
+🔍 Checking README links...
+
+================================================================================
+📊 STATISTICS
+================================================================================
+Navigation links checked: 64
+TOC entries checked: 942
+Cross-references checked: 212
+README links checked: 152
+Total links checked: 1370
+
+================================================================================
+🐛 ISSUES FOUND
+================================================================================
+
+❌ ERRORS (114):
+  ❌ README.md: Anchor not found in chapter2-hard-disk-drives.md: #5-disk-scheduling
+  ❌ concurrency/README.md: Anchor not found in chapter3-locks.md: #1-locks-the-basic-idea
+  ❌ concurrency/README.md: Anchor not found in chapter5-condition-variables.md: #2-definition-and-routines
+  ❌ concurrency/README.md: Anchor not found in chapter5-condition-variables.md: #3-the-producerconsumer-problem
+  ❌ concurrency/README.md: Anchor not found in chapter6-semaphores.md: #5-reader-writer-locks
+  ❌ concurrency/README.md: Anchor not found in chapter6-semaphores.md: #6-the-dining-philosophers
+  ❌ concurrency/README.md: Anchor not found in chapter7-common-problems.md: #2-non-deadlock-bugs
+  ❌ concurrency/README.md: Anchor not found in chapter7-common-problems.md: #32-deadlock-prevention
+  ❌ concurrency/chapter2-thread-api.md: TOC anchor not found: #24-creating-a-thread---complete-example (similar: 24-creating-a-thread-complete-example)
+  ❌ persistence/README.md: Anchor not found in chapter1-io-devices.md: #2-system-architecture
+  ❌ persistence/README.md: Anchor not found in chapter10-flash-based-ssds.md: #6-ssd-performance-and-cost
+  ❌ persistence/README.md: Anchor not found in chapter11-data-integrity.md: #4-checksum-functions
+  ❌ persistence/README.md: Anchor not found in chapter12-distributed-systems.md: #3-nfs-protocol
+  ❌ persistence/README.md: Anchor not found in chapter2-hard-disk-drives.md: #3-disk-io-time
+  ❌ persistence/README.md: Anchor not found in chapter2-hard-disk-drives.md: #5-disk-scheduling
+  ❌ persistence/README.md: Anchor not found in chapter3-raid.md: #3-raid-level-0-striping
+  ❌ persistence/README.md: Anchor not found in chapter3-raid.md: #4-raid-level-1-mirroring
+  ❌ persistence/README.md: Anchor not found in chapter5-file-system-implementation.md: #2-overall-organization
+  ❌ persistence/README.md: Anchor not found in chapter6-locality-fast-file-system.md: #3-ffs-cylinder-groups
+  ❌ persistence/README.md: Anchor not found in chapter7-crash-consistency.md: #3-the-crash-consistency-problem
+  ❌ persistence/README.md: Anchor not found in chapter8-journaling.md: #3-data-journaling
+  ❌ persistence/README.md: Anchor not found in chapter9-log-structured-file-system.md: #2-writing-to-disk-sequentially
+  ❌ persistence/chapter10-flash-based-ssds.md: Broken link -> chapter09-log-structured-file-systems.md
+  ❌ persistence/chapter10-flash-based-ssds.md: Broken link -> chapter11-data-integrity-protection.md
+  ❌ persistence/chapter10-flash-based-ssds.md: Next link broken -> chapter11-data-integrity-protection.md
+  ❌ persistence/chapter10-flash-based-ssds.md: Previous link broken -> chapter09-log-structured-file-systems.md
+  ❌ persistence/chapter11-data-integrity.md: Broken link -> chapter10-tbd.md
+  ❌ persistence/chapter11-data-integrity.md: Broken link -> chapter12-tbd.md
+  ❌ persistence/chapter11-data-integrity.md: Next link broken -> chapter12-tbd.md
+  ❌ persistence/chapter11-data-integrity.md: Previous link broken -> chapter10-tbd.md
+  ❌ persistence/chapter4-files-directories.md: TOC anchor not found: #2-files-and-directories---core-abstractions (similar: 2-files-and-directories-core-abstractions)
+  ❌ persistence/chapter5-file-system-implementation.md: Broken link -> chapter4.md
+  ❌ persistence/chapter5-file-system-implementation.md: Broken link -> chapter6.md
+  ❌ persistence/chapter5-file-system-implementation.md: Next link broken -> chapter6.md
+  ❌ persistence/chapter5-file-system-implementation.md: Previous link broken -> chapter4.md
+  ❌ persistence/chapter8-journaling.md: Broken link -> chapter7-flash.md
+  ❌ persistence/chapter8-journaling.md: Broken link -> chapter9-lfs.md
+  ❌ persistence/chapter8-journaling.md: Next link broken -> chapter9-lfs.md
+  ❌ persistence/chapter8-journaling.md: Previous link broken -> chapter7-flash.md
+  ❌ virtualization/chapter1-processes.md: Broken link -> ../intro.md
+  ❌ virtualization/chapter1-processes.md: Previous link broken -> ../intro.md
+  ❌ virtualization/chapter10-address-translation.md: Broken link -> chapter9-proportional-share-scheduling.md
+  ❌ virtualization/chapter10-address-translation.md: Previous link broken -> chapter9-proportional-share-scheduling.md
+  ❌ virtualization/chapter11-segmentation.md: Broken link -> chapter10-multiprocessor-scheduling.md
+  ❌ virtualization/chapter11-segmentation.md: Broken link -> chapter12-paging.md
+  ❌ virtualization/chapter11-segmentation.md: Next link broken -> chapter12-paging.md
+  ❌ virtualization/chapter11-segmentation.md: Previous link broken -> chapter10-multiprocessor-scheduling.md
+  ❌ virtualization/chapter12-free-space-management.md: Broken link -> chapter11.md
+  ❌ virtualization/chapter12-free-space-management.md: Previous link broken -> chapter11.md
+  ❌ virtualization/chapter13-paging-introduction.md: Broken link -> chapter12-segmentation.md
+  ❌ virtualization/chapter13-paging-introduction.md: Broken link -> chapter14-tlb.md
+  ❌ virtualization/chapter13-paging-introduction.md: Next link broken -> chapter14-tlb.md
+  ❌ virtualization/chapter13-paging-introduction.md: Previous link broken -> chapter12-segmentation.md
+  ❌ virtualization/chapter14-tlbs.md: TOC anchor not found: #62-solution-1-flush-on-switch
+  ❌ virtualization/chapter14-tlbs.md: TOC anchor not found: #63-solution-2-address-space-identifiers (similar: 63-solution-2-address-space-identifiers-asids)
+  ❌ virtualization/chapter15-smaller-page-tables.md: Broken link -> chapter14-address-translation.md
+  ❌ virtualization/chapter15-smaller-page-tables.md: Previous link broken -> chapter14-address-translation.md
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #1-introduction---the-memory-illusion (similar: 1-introduction-the-memory-illusion)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #2-swap-space---your-memory-safety-net (similar: 2-swap-space-your-memory-safety-net)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #23-beyond-swap---code-pages (similar: 23-beyond-swap-code-pages)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #3-the-present-bit---memorys-truth-detector (similar: 3-the-present-bit-memorys-truth-detector)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #4-the-page-fault-handler---crisis-management (similar: 4-the-page-fault-handler-crisis-management)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #5-when-memory-is-full---the-replacement-problem (similar: 5-when-memory-is-full-the-replacement-problem)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #6-page-fault-control-flow---the-complete-picture (similar: 6-page-fault-control-flow-the-complete-picture)
+  ❌ virtualization/chapter16-swapping-mechanisms.md: TOC anchor not found: #7-when-replacements-really-occur---proactive-memory-management (similar: 7-when-replacements-really-occur-proactive-memory-management)
+  ❌ virtualization/chapter17-page-replacement.md: Broken link -> chapter16-segmentation.md
+  ❌ virtualization/chapter17-page-replacement.md: Broken link -> chapter18-complete-vm-systems.md
+  ❌ virtualization/chapter17-page-replacement.md: Next link broken -> chapter18-complete-vm-systems.md
+  ❌ virtualization/chapter17-page-replacement.md: Previous link broken -> chapter16-segmentation.md
+  ❌ virtualization/chapter2-process-api.md: Broken link -> chapter3-scheduling.md
+  ❌ virtualization/chapter2-process-api.md: Next link broken -> chapter3-scheduling.md
+  ❌ virtualization/chapter2-process-api.md: TOC anchor not found: #63-the-superuser (similar: 63-the-superuser-root)
+  ❌ virtualization/chapter3-limited-direct-execution.md: Broken link -> chapter4-scheduling-policies.md
+  ❌ virtualization/chapter3-limited-direct-execution.md: Next link broken -> chapter4-scheduling-policies.md
+  ❌ virtualization/chapter4-scheduling.md: Broken link -> chapter5-mlfq.md
+  ❌ virtualization/chapter4-scheduling.md: Next link broken -> chapter5-mlfq.md
+  ❌ virtualization/chapter5-mlfq-scheduling.md: Broken link -> chapter4-scheduling-policies.md
+  ❌ virtualization/chapter5-mlfq-scheduling.md: Previous link broken -> chapter4-scheduling-policies.md
+  ❌ virtualization/chapter6-proportional-share.md: Broken link -> chapter5-mlfq.md
+  ❌ virtualization/chapter6-proportional-share.md: Broken link -> chapter7-multiprocessor.md
+  ❌ virtualization/chapter6-proportional-share.md: Next link broken -> chapter7-multiprocessor.md
+  ❌ virtualization/chapter6-proportional-share.md: Previous link broken -> chapter5-mlfq.md
+  ❌ virtualization/chapter6-proportional-share.md: TOC anchor not found: #62-stride-vs-lottery-tradeoffs
+  ❌ virtualization/chapter7-multiprocessor-scheduling.md: Broken link -> chapter6-limited-direct-execution.md
+  ❌ virtualization/chapter7-multiprocessor-scheduling.md: Broken link -> chapter8-mlfq.md
+  ❌ virtualization/chapter7-multiprocessor-scheduling.md: Next link broken -> chapter8-mlfq.md
+  ❌ virtualization/chapter7-multiprocessor-scheduling.md: Previous link broken -> chapter6-limited-direct-execution.md
+  ❌ virtualization/chapter8-address-spaces.md: Broken link -> chapter7-scheduling.md
+  ❌ virtualization/chapter8-address-spaces.md: Broken link -> chapter9-free-space.md
+  ❌ virtualization/chapter8-address-spaces.md: Next link broken -> chapter9-free-space.md
+  ❌ virtualization/chapter8-address-spaces.md: Previous link broken -> chapter7-scheduling.md
+  ❌ virtualization/chapter9-memory-api.md: Broken link -> chapter8-scheduling.md
+  ❌ virtualization/chapter9-memory-api.md: Previous link broken -> chapter8-scheduling.md
+
+⚠️  WARNINGS (74):
+  ⚠️  concurrency/chapter2-thread-api.md: Header not in TOC: Creating a Thread - Complete Example
+  ⚠️  concurrency/chapter4-concurrent-data-structures.md: Header not in TOC: Lock-based Concurrent Data Structures
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Advanced Technique: Lock Address Ordering
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Banker's Algorithm
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Best Practices
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Bug Distribution
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Classic Deadlock Example
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Complex Dependencies in Large Systems
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Complex Example
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Database Systems
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Deadlock Dependency Graph
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Detection Algorithm
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Encapsulation Hides Lock Ordering
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Formal Definition
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Key Takeaways
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Prevent Circular Wait: Lock Ordering
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Prevent Hold-and-Wait: Atomic Lock Acquisition
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Prevent Mutual Exclusion: Lock-Free Data Structures
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Prevent No Preemption: Trylock
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Progressive Complexity
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Real Example from Mozilla
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Real Example from MySQL
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Real-World Example: Linux Memory Mapping
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Recovery Strategies
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Simple Example
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: The Bigger Picture
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: The Fix: Add Locks
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: The Fix: Use Condition Variables
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: The Research Foundation
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: Visual Flow of the Bug
+  ⚠️  concurrency/chapter7-common-problems.md: Header not in TOC: When This Makes Sense
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Advantages
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Challenges
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Event-Based Concurrency Recap
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Event-based Concurrency (Advanced)
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Further Learning
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: The Core Question
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: The Fundamental Trade-off
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: The Problems Event-Based Concurrency Solves
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: When to Use Each Model
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Where Event-Based Concurrency Thrives
+  ⚠️  concurrency/chapter8-event-based.md: Header not in TOC: Why Locks Aren't Needed
+  ⚠️  persistence/chapter4-files-directories.md: Header not in TOC: Files and Directories - Core Abstractions
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Address Translation Process** 🔄
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Advantages of Paging** ✅
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Core Paging Concepts** 📚
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Page Table Entry Contents** 🗂️
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Paging Solves Segmentation's Problems** 🧩
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **Two Critical Problems** ⚠️
+  ⚠️  virtualization/chapter13-paging-introduction.md: Header not in TOC: **What's Next** 🚀
+  ⚠️  virtualization/chapter14-tlbs.md: Header not in TOC: 🆔 Solution 2: Address Space Identifiers (ASIDs)
+  ⚠️  virtualization/chapter14-tlbs.md: Header not in TOC: 🔄 Solution 1: Flush on Context Switch
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: Beyond Swap - Code Pages
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: Introduction - The Memory Illusion
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: Page Fault Control Flow - The Complete Picture
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: Swap Space - Your Memory Safety Net
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: The Page Fault Handler - Crisis Management
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: The Present Bit - Memory's Truth Detector
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: When Memory is Full - The Replacement Problem
+  ⚠️  virtualization/chapter16-swapping-mechanisms.md: Header not in TOC: When Replacements Really Occur - Proactive Memory Management
+  ⚠️  virtualization/chapter2-process-api.md: Header not in TOC: 👑 The Superuser (root)
+  ⚠️  virtualization/chapter6-proportional-share.md: Header not in TOC: 🆚 Stride vs Lottery Tradeoffs
+  ⚠️  virtualization/chapter6-proportional-share.md: Header not in TOC: 🔄 Complete Stride Scheduling Example
+  ⚠️  virtualization/chapter7-multiprocessor-scheduling.md: Header not in TOC: ⚖️ Completely Fair Scheduler (CFS) (2007-present)
+  ⚠️  virtualization/chapter7-multiprocessor-scheduling.md: Header not in TOC: 🎯 BF Scheduler (BFS) (2009-present)
+  ⚠️  virtualization/chapter7-multiprocessor-scheduling.md: Header not in TOC: 🚀 O(1) Scheduler (2002-2007)
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 🎯 Three Goals of Virtual Memory
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 💡 Every Address is Virtual
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 📜 Evolution of Memory Management
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 🔀 Virtual vs. Physical Addresses
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 🗺️ The Address Space Abstraction
+  ⚠️  virtualization/chapter8-address-spaces.md: Header not in TOC: 🛡️ The Principle of Isolation
+
+================================================================================

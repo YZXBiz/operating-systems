@@ -828,4 +828,4 @@ Random > LRU → Corner case exists
 
 ---
 
-**Previous:** [Chapter 16: Segmentation](chapter16-segmentation.md) | **Next:** [Chapter 18: Complete VM Systems](chapter18-complete-vm-systems.md)
+**Previous:** [Chapter 16: Swapping Mechanisms](chapter16-swapping-mechanisms.md) | **Next:** [Chapter 18: Complete VM Systems](chapter18-complete-vm-systems.md)

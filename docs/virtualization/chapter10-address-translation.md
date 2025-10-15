@@ -1906,4 +1906,4 @@ Chapter 15+: Advanced Topics
 
 ---
 
-**Previous:** [Chapter 9: Scheduling - Proportional Share](chapter9-proportional-share-scheduling.md) | **Next:** [Chapter 11: Segmentation](chapter11-segmentation.md)
+**Previous:** [Chapter 9: Memory API](chapter9-memory-api.md) | **Next:** [Chapter 11: Segmentation](chapter11-segmentation.md)

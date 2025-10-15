@@ -1180,4 +1180,4 @@ With efficient page tables in place, we can explore:
 
 ---
 
-**Previous:** [Chapter 14: Address Translation](chapter14-address-translation.md) | **Next:** [Chapter 16: Swapping - Mechanisms](chapter16-swapping-mechanisms.md)
+**Previous:** [Chapter 14: TLBs](chapter14-tlbs.md) | **Next:** [Chapter 16: Swapping Mechanisms](chapter16-swapping-mechanisms.md)

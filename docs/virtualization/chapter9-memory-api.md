@@ -2212,4 +2212,4 @@ Avoiding leaks           →      Arenas & pools        →      Zero-copy techn
 
 ---
 
-**Previous:** [Chapter 8: Scheduling](chapter8-scheduling.md) | **Next:** [Chapter 10: Address Translation](chapter10-address-translation.md)
+**Previous:** [Chapter 8: Address Spaces](chapter8-address-spaces.md) | **Next:** [Chapter 10: Address Translation](chapter10-address-translation.md)

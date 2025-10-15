@@ -1673,4 +1673,4 @@ The journey continues! 🎉
 
 ---
 
-**Previous:** [Chapter 10: Multiprocessor Scheduling](chapter10-multiprocessor-scheduling.md) | **Next:** [Chapter 12: Paging](chapter12-paging.md)
+**Previous:** [Chapter 10: Address Translation](chapter10-address-translation.md) | **Next:** [Chapter 12: Free Space Management](chapter12-free-space-management.md)

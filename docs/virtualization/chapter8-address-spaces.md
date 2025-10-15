@@ -1056,4 +1056,4 @@ most successful applications of this principle.
 
 ---
 
-**Previous:** [Chapter 7: CPU Scheduling](chapter7-scheduling.md) | **Next:** [Chapter 9: Free Space Management](chapter9-free-space.md)
+**Previous:** [Chapter 7: Multiprocessor Scheduling](chapter7-multiprocessor-scheduling.md) | **Next:** [Chapter 9: Memory API](chapter9-memory-api.md)
